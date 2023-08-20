@@ -1,8 +1,10 @@
-# html-google-icons
+# Using Google Icons
 
 A basic example of using Google Icons.
 
-## Requirements:
+***
+
+## Repo Resources
 
 * [Google Icons](https://fonts.google.com/icons)
 
